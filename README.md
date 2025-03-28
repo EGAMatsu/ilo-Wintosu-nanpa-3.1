@@ -1,6 +1,6 @@
-https://github.com/ante-toki-pi-ilo-Wintosu/ilo-Wintosu-nanpa-3.1/tree/main
-https://github.com/ante-toki-pi-ilo-Wintosu/ilo-Wintosu-nanpa-3.1/tree/main
-https://github.com/ante-toki-pi-ilo-Wintosu/ilo-Wintosu-nanpa-3.1/tree/main
+https://github.com/ante-toki-pi-ilo-Wintosu/ilo-Wintosu-nanpa-3.1/tree/main  
+https://github.com/ante-toki-pi-ilo-Wintosu/ilo-Wintosu-nanpa-3.1/tree/main  
+https://github.com/ante-toki-pi-ilo-Wintosu/ilo-Wintosu-nanpa-3.1/tree/main  
 
 # ilo Wintosu nanpa 3.1 | 󱤎󱦐󱥷󱦒󱤎󱦒󱥃󱦒󱥭󱦒󱥆󱦒󱥡󱦒󱥰󱦒󱦑󱤽3.1
 This repository will store the INSTALLATION FILES for Windows 3.1, Translated into Toki Pona.
